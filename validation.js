@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 function validation(){
     var username = document.getElementById('username').value;
@@ -22,4 +23,10 @@ function validation(){
         text = "Password cannot be blank";
         error_message.innerHTML = text;
     }
+=======
+function validate()
+{
+    var name1  = document.getElementById(username).nodeValue;
+    var pswd = document.getElementById();
+>>>>>>> feature-correction
 }
